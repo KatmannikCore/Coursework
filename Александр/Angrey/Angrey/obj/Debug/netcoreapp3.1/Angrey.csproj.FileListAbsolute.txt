@@ -1,0 +1,12 @@
+/Users/user/Projects/Angrey/Angrey/obj/Debug/netcoreapp3.1/Angrey.csprojAssemblyReference.cache
+/Users/user/Projects/Angrey/Angrey/obj/Debug/netcoreapp3.1/Angrey.AssemblyInfoInputs.cache
+/Users/user/Projects/Angrey/Angrey/obj/Debug/netcoreapp3.1/Angrey.AssemblyInfo.cs
+/Users/user/Projects/Angrey/Angrey/obj/Debug/netcoreapp3.1/Angrey.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Angrey/Angrey/bin/Debug/netcoreapp3.1/Angrey.deps.json
+/Users/user/Projects/Angrey/Angrey/bin/Debug/netcoreapp3.1/Angrey.runtimeconfig.json
+/Users/user/Projects/Angrey/Angrey/bin/Debug/netcoreapp3.1/Angrey.runtimeconfig.dev.json
+/Users/user/Projects/Angrey/Angrey/bin/Debug/netcoreapp3.1/Angrey.dll
+/Users/user/Projects/Angrey/Angrey/bin/Debug/netcoreapp3.1/Angrey.pdb
+/Users/user/Projects/Angrey/Angrey/obj/Debug/netcoreapp3.1/Angrey.dll
+/Users/user/Projects/Angrey/Angrey/obj/Debug/netcoreapp3.1/Angrey.pdb
+/Users/user/Projects/Angrey/Angrey/obj/Debug/netcoreapp3.1/Angrey.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+﻿  MyForm1.cpp
+C:\Users\Владислав\source\repos\TestCLRY\TestCLRY\MyForm1.h(474,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Владислав\source\repos\TestCLRY\TestCLRY\MyForm1.h(474,117): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Владислав\source\repos\TestCLRY\TestCLRY\MyForm1.h(474,174): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Владислав\source\repos\TestCLRY\TestCLRY\MyForm1.h(440,26): warning C4101: ex: неиспользованная локальная переменная
+  MyForm1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TestCLRY.vcxproj -> C:\Users\Владислав\source\repos\TestCLRY\Debug\TestCLRY.exe

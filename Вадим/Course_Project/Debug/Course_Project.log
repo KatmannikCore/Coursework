@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Programming\Projects (C & C++)\TMP\Course_Project\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Programming\Projects (C & C++)\TMP\Course_Project\main.cpp(42,43): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\Projects (C & C++)\TMP\Course_Project\main.cpp(80,43): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\Projects (C & C++)\TMP\Course_Project\main.cpp(119,43): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\Projects (C & C++)\TMP\Course_Project\main.cpp(178,42): warning C4018: '<': signed/unsigned mismatch
+  Course_Project.vcxproj -> E:\Programming\Projects (C & C++)\TMP\Course_Project\Debug\Course_Project.exe

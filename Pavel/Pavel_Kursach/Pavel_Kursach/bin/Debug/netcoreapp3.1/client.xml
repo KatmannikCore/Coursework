@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Name>Martin</Name>
+    <Age>19</Age>
+    <Musical_Instrument>Рояль</Musical_Instrument>
+  </Client>
+  <Client>
+    <Name>Lana</Name>
+    <Age>19</Age>
+    <Musical_Instrument>Скрипка</Musical_Instrument>
+    <Number>none</Number>
+  </Client>
+  <Client>
+    <Name>12</Name>
+    <Age>12</Age>
+    <Musical_Instrument>12</Musical_Instrument>
+    <Number>12</Number>
+  </Client>
+</ArrayOfClient>

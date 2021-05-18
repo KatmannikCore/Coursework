@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E0A9F1B6-E2E2-44B6-AA63-88EDEB52FF86}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Angrey/Program.cs">
+    <Files>
+      <File FileName="Angrey/Program.cs" Line="24" Column="42" />
+      <File FileName="Angrey/Cocktail.cs" Line="15" Column="30" />
+      <File FileName="Angrey/Ingredient.cs" Line="4" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Angrey" expanded="True">
+            <Node name="Angrey" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Projects/Angrey/Angrey/Program.cs" relfile="Angrey/Program.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Angrey PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,4 @@
+﻿  Mish_kursach.cpp
+C:\Users\Владислав\source\repos\Mish_kursach\Mish_kursach\Mish_kursach.cpp(126,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Mish_kursach\Mish_kursach\Mish_kursach.cpp(114,16): warning C4101: value: неиспользованная локальная переменная
+  Mish_kursach.vcxproj -> C:\Users\Владислав\source\repos\Mish_kursach\Debug\Mish_kursach.exe

@@ -1,0 +1,6 @@
+﻿  vika.cpp
+C:\Users\Владислав\source\repos\vika\vika\vika.cpp(29,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\vika\vika\vika.cpp(67,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\vika\vika\vika.cpp(103,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\vika\vika\vika.cpp(84,7): warning C4101: numberRoomDel: неиспользованная локальная переменная
+  vika.vcxproj -> C:\Users\Владислав\source\repos\vika\Debug\vika.exe

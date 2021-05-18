@@ -1,0 +1,9 @@
+﻿  Library.cpp
+C:\Users\Владислав\source\repos\Library\Library\Library.cpp(69,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Library\Library\Library.cpp(116,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Library\Library\Library.cpp(122,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Library\Library\Library.cpp(141,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Library\Library\Library.cpp(163,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Library\Library\Library.cpp(185,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Library\Library\Library.cpp(209,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Library.vcxproj -> C:\Users\Владислав\source\repos\Library\Debug\Library.exe

@@ -1,0 +1,12 @@
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/bin/Debug/netcoreapp3.1/Pavel_Kursach.deps.json
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/bin/Debug/netcoreapp3.1/Pavel_Kursach.runtimeconfig.json
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/bin/Debug/netcoreapp3.1/Pavel_Kursach.runtimeconfig.dev.json
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/bin/Debug/netcoreapp3.1/Pavel_Kursach.dll
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/bin/Debug/netcoreapp3.1/Pavel_Kursach.pdb
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/obj/Debug/netcoreapp3.1/Pavel_Kursach.csprojAssemblyReference.cache
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/obj/Debug/netcoreapp3.1/Pavel_Kursach.AssemblyInfoInputs.cache
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/obj/Debug/netcoreapp3.1/Pavel_Kursach.AssemblyInfo.cs
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/obj/Debug/netcoreapp3.1/Pavel_Kursach.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/obj/Debug/netcoreapp3.1/Pavel_Kursach.dll
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/obj/Debug/netcoreapp3.1/Pavel_Kursach.pdb
+/Users/user/Projects/Pavel_Kursach/Pavel_Kursach/obj/Debug/netcoreapp3.1/Pavel_Kursach.genruntimeconfig.cache

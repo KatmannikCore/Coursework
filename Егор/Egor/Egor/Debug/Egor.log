@@ -1,0 +1,6 @@
+﻿  Egor.cpp
+C:\Users\Владислав\source\repos\Egor\Egor\Egor.cpp(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Egor\Egor\Egor.cpp(62,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Egor\Egor\Egor.cpp(104,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Egor\Egor\Egor.cpp(111): warning C4715: Contract::Add: значение возвращается не при всех путях выполнения
+  Egor.vcxproj -> C:\Users\Владислав\source\repos\Egor\Debug\Egor.exe

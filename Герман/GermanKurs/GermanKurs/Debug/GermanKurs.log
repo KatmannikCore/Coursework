@@ -1,0 +1,4 @@
+﻿  GermanKurs.cpp
+C:\Users\Владислав\source\repos\GermanKurs\GermanKurs\GermanKurs.cpp(48,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\GermanKurs\GermanKurs\GermanKurs.cpp(61,22): warning C4018: <: несоответствие типов со знаком и без знака
+  GermanKurs.vcxproj -> C:\Users\Владислав\source\repos\GermanKurs\Debug\GermanKurs.exe

@@ -1,0 +1,5 @@
+﻿  GermanKurs.cpp
+C:\Users\Владислав\OneDrive\Рабочий стол\Герман\GermanKurs\GermanKurs\GermanKurs.cpp(47,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\OneDrive\Рабочий стол\Герман\GermanKurs\GermanKurs\GermanKurs.cpp(60,22): warning C4018: <: несоответствие типов со знаком и без знака
+  LINK : не найден или не выполнена сборка C:\Users\Владислав\OneDrive\Рабочий стол\Герман\GermanKurs\Debug\GermanKurs.exe при последней инкрементной компоновке; выполняется полная компоновка
+  GermanKurs.vcxproj -> C:\Users\Владислав\OneDrive\Рабочий стол\Герман\GermanKurs\Debug\GermanKurs.exe

@@ -1,0 +1,3 @@
+C:\Users\Владислав\source\repos\TestCLRY\TestCLRY\Debug\TestCLRY.vcxprojAssemblyReference.cache
+C:\Users\Владислав\source\repos\TestCLRY\TestCLRY\Debug\TestCLRY.MyForm1.resources
+C:\Users\Владислав\source\repos\TestCLRY\TestCLRY\Debug\TestCLRY.vcxproj.GenerateResource.cache
