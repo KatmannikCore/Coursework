@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Name>Виталий</Name>
+    <Number>+123456789</Number>
+    <Surname>Макаренко</Surname>
+    <Age>29</Age>
+    <Energy>1900</Energy>
+    <Prise>990</Prise>
+  </Client>
+  <Client>
+    <Name>Алексеев</Name>
+    <Number>+375(33)987-76-32</Number>
+    <Surname>Алексей</Surname>
+    <Age>30</Age>
+    <Energy>200</Energy>
+    <Prise>34</Prise>
+  </Client>
+</ArrayOfClient>

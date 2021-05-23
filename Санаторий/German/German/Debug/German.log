@@ -1,0 +1,4 @@
+﻿  German.cpp
+C:\Users\Владислав\source\repos\German\German\German.cpp(53,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\German\German\German.cpp(66,22): warning C4018: <: несоответствие типов со знаком и без знака
+  German.vcxproj -> C:\Users\Владислав\source\repos\German\Debug\German.exe

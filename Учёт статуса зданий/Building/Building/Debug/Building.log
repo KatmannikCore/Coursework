@@ -1,0 +1,8 @@
+﻿  Building.cpp
+C:\Users\Владислав\source\repos\Building\Building\Building.cpp(42,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Building\Building\Building.cpp(108,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Building\Building\Building.cpp(117,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Building\Building\Building.cpp(136,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Building\Building\Building.cpp(177,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Building\Building\Building.cpp(186,35): warning C4018: <: несоответствие типов со знаком и без знака
+  Building.vcxproj -> C:\Users\Владислав\source\repos\Building\Debug\Building.exe
